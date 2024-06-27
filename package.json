@@ -1,0 +1,17 @@
+{
+  "name": "luismattos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luismattos/luismattos.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Mattos",
+  "private": "true",
+}
